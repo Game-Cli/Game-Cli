@@ -1,6 +1,6 @@
 # Game-Cli
 
-## <a href=http://game-cli.github.io/Game-Cli/'>Game-Cli-Link</a>
+## <a href=http://game-cli.github.io/Game-Cli/>Game-Cli-Link</a>
 
 草料 - 游戏杨帆
 
